@@ -1,3 +1,3 @@
-const url = 'http://localhost:8001'
+const url = 'https://rwallet.herokuapp.com/'
 
 export default url
